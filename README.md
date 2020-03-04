@@ -1,4 +1,4 @@
-<h1> Prototipo RPG </h1>
+<h1> Configurando </h1>
 
 
 *Considerações/Configurações inciais
@@ -49,8 +49,5 @@
 4 - Abra o prompt de comando, vá até o diretorio do projeto, e por fim digite o codigo "php artisan migrate". Este codigo irá adicionar as tabelas necessarias para o uso do site.
 
 
-5 - Continuando no diretorio do projeto no prompt de comando digite o codigo "php artisan db:seed". Este codigo irá adicionar duas linhas de dados na tabela para ser utilizado como preencimento previo e exemplificações na aplicação.
-
-
-6 - Por fim utilize o comando "php artisan serve" para hospedar o site no seu localhost e acessa-lo no navegador com o o url dado pelo Laravel.
+5 - Por fim utilize o comando "php artisan serve" para hospedar o site no seu localhost e acessa-lo no navegador com o o url dado pelo Laravel.
 

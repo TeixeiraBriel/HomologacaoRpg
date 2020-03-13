@@ -1,4 +1,19 @@
-<h1> Configurando </h1>
+# Sobre
+
+RPG é um jogo que tenho desenvolvido com o intuito de criar uma plataforma de treino/simulação de como seria jogar um rpg de mesa, onde há camadas de jogadores, estes são. Mestre e jogador. O Mestres define sequencias para as historias e jogadores define ações, que catalizam outros processos para historia.
+
+# Canais:
+
+Ambiente definitivo: ---
+Ambiente de teste: Existe!
+
+
+# Detalhes:
+
+Repositorio destinado para update do RPG.
+Neste repositorio ficam armazenadas as atualizações que ainda não foram para o ambiente de produção. Ou seja, tudo que esta sendo implementado ou até mesmo processos em andamento, que por vez, param o funcionamento da ferramenta.
+
+# Configurações
 
 
 *Considerações/Configurações inciais
